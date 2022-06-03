@@ -3,6 +3,8 @@
 ```console
 git clone git@github.com:Jayshil-Patel/Wordle_solver.git
 ```
+
+### Or, Step 1:- Past the repository link in google collab/open notebooks to run it online without downloading
 ### Step 2:- Run the Wordle_solver.ipynb file
 #### The prompt will ask you for 5 alphabets 
 > Enter the value ("single character") and press enter
