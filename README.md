@@ -9,7 +9,7 @@ git clone git@github.com:Jayshil-Patel/Wordle_solver.git
 > If you did not find the first character, then press "Esc" or "Enter"
 
 
-<img src="https://github.com/Jayshil-Patel/Wordle_solver/blob/master/Images/first_word.png" height="100px" width="200px">
+<img src="https://github.com/Jayshil-Patel/Wordle_solver/blob/master/Images/first_word.png" >
 
 > Here, Character <b>'H'</b> is found so we must enter the value H when the program asks of <b>second character<b>
 
@@ -17,7 +17,7 @@ git clone git@github.com:Jayshil-Patel/Wordle_solver.git
 ### Step 3:- Enter the <b>number</b> of character which are not in the final word
 > The count of the gray coloured words which are not in the final words must be entered
   
-<img src="https://github.com/Jayshil-Patel/Wordle_solver/blob/master/Images/Gray_alphabets.png" height="250px" width="200px">
+<img src="https://github.com/Jayshil-Patel/Wordle_solver/blob/master/Images/Gray_alphabets.png" >
   
 > Here, the total number of gray letters are 11, hence we must enter the value 11
   
